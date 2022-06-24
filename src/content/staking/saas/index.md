@@ -47,7 +47,7 @@ Attribute indicators are used below to signal notable strengths or weaknesses a 
 
 ## Explore staking service providers {#saas-providers}
 
-Below are some available SaaS provider. Use the above indicators to help guide you through these services
+Below are some available SaaS providers. Use the above indicators to help guide you through these services
 
 <InfoBanner emoji="⚠️" isWarning>
 Please note the importance of supporting <a href="/developers/docs/nodes-and-clients/client-diversity/">client diversity</a> as it improves the security of the network, and limits your risk. Services that have evidence of limiting majority client use are marked as <em style="text-transform: uppercase;">"diverse clients."</em>
